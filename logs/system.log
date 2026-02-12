@@ -1,0 +1,6 @@
+INFO Service started successfully
+INFO Configuration loaded
+ERROR Failed to connect to backup service
+INFO Retrying connection
+CRITICAL Service crashed unexpectedly
+INFO Restart attempt completed
